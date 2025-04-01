@@ -13,7 +13,7 @@ In the empirical study, we evaluate our model on both noise-free and noisy datas
 
 ## Dataset Preparation
 
-Please download the required .pkl files (for node features, edge features, GO features, etc.) from the following address:
+Please download the required .pkl files (for node features, edge features, GO features, etc.) from the following address: https://zenodo.org/records/15117305
 
 Download and extract the files under the ./data/ directory, following this structure:
   ./data/
